@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Destination-Search-ReactJS/static/css/main.fe870f1a.chunk.css",
+    "main.js": "/Destination-Search-ReactJS/static/js/main.290bcec0.chunk.js",
+    "main.js.map": "/Destination-Search-ReactJS/static/js/main.290bcec0.chunk.js.map",
+    "runtime-main.js": "/Destination-Search-ReactJS/static/js/runtime-main.74b7dc79.js",
+    "runtime-main.js.map": "/Destination-Search-ReactJS/static/js/runtime-main.74b7dc79.js.map",
+    "static/js/2.0fb2d235.chunk.js": "/Destination-Search-ReactJS/static/js/2.0fb2d235.chunk.js",
+    "static/js/2.0fb2d235.chunk.js.map": "/Destination-Search-ReactJS/static/js/2.0fb2d235.chunk.js.map",
+    "index.html": "/Destination-Search-ReactJS/index.html",
+    "static/css/main.fe870f1a.chunk.css.map": "/Destination-Search-ReactJS/static/css/main.fe870f1a.chunk.css.map",
+    "static/js/2.0fb2d235.chunk.js.LICENSE.txt": "/Destination-Search-ReactJS/static/js/2.0fb2d235.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74b7dc79.js",
+    "static/js/2.0fb2d235.chunk.js",
+    "static/css/main.fe870f1a.chunk.css",
+    "static/js/main.290bcec0.chunk.js"
+  ]
+}
