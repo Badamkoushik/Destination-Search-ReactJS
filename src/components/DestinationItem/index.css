@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+.image {
+  height: 150px;
+  width: 200px;
+}
+.main-paragraph {
+  color: #252627;
+  font-family: 'Open Sans';
+  font-weight: 600;
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-right: 20px;
+}
